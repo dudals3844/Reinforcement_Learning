@@ -755,4 +755,6 @@ FodyWeavers.xsd
 *.dat
 *.pth
 *.zip
+*.png
+*.csv
 
